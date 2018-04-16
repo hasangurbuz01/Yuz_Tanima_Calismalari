@@ -1,0 +1,17 @@
+Merhaba Dünya
+Merhaba Dünyalı
+Python ve yapay zeka
+<_io.TextIOWrapper name='bilgiler.txt' mode='w' encoding='UTF-8'>
+artık file belirtmeden dosayaya yaz
+Merhaba Dünya
+Merhaba Dünyalı
+Python ve yapay zeka
+<_io.TextIOWrapper name='bilgiler.txt' mode='a' encoding='UTF-8'>
+artık file belirtmeden dosayaya yaz
+Merhaba Dünya
+Merhaba Dünyalı
+Python ve yapay zeka
+<_io.TextIOWrapper name='bilgiler.txt' mode='a' encoding='UTF-8'>
+artık file belirtmeden dosayaya yaz
+Hasan GürbüzHasan GürbüzHasan GürbüzHasan Gürbüz
+Hasan GürbüzHasan GürbüzHasan GürbüzHasan Gürbüz
